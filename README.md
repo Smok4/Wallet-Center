@@ -16,4 +16,4 @@
 ## Installation
 1. Clonez le dépôt GitHub sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/mon-portefeuille-crypto.git
+   git clone https://github.com/Smok4/Wallet-Center.git
